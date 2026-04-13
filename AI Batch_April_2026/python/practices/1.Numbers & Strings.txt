@@ -1,0 +1,34 @@
+1.Practice below functions
+
+Mathamatical 
+
+abs(x)
+ceil(x)
+exp(x)
+Floor(x)
+Log(x)
+Cmp(x,y) {-1,0,1}
+Max(x1,x2,..xn)
+Min(x1,x2,..)
+Pow(x,y)
+Sqrt(x)
+Round(x[,n])
+
+Random functions
+
+Choice(seq)
+randrange([start],stop,[,step])
+Random()
+Seed([x])
+Shuffle(list)
+Uniform(x,y)
+Trigonometric & otherfunctions
+Pi 
+E
+All Trigonometric functions
+ 
+2. Variable conversions.
+	Int to Flot
+	Int to string
+	Flot to Int etc..
+

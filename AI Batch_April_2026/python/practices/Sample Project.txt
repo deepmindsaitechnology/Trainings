@@ -1,0 +1,38 @@
+1. enter student details in loop until yes 'NO'
+
+Student basic details
+1.R.No
+2.Name
+3.Class
+4.Section
+5.Age
+6.Gender
+7.Class teacher Name
+
+Student contact details
+1.R.No
+8. Father Name
+9. Contact number
+10.Address
+
+student marks details
+1.R.No
+11.Maths
+12.Science
+15.English
+16.Hindi
+17. GK
+
+Student other detials.
+1.R.No
+18.Hobby
+19.Bus route
+20.special instructions from parents. (Notes)
+
+
+Output
+*************
+
+R.NO.	    Name	 Total marks 	Avg marks   Rank	
+********  *********	*************	*********  ******    		
+ 

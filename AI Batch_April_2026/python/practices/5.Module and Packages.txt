@@ -1,0 +1,3 @@
+1. Write a module with all arithmatic and logical functions
+with name : Mathlogicmod 
+2. Import created Mathlogicmod module into new pgm and call the available functions.

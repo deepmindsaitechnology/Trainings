@@ -1,0 +1,23 @@
+1. Write program to generate below pattern
+
+#1
+#2   2
+#3   3   3
+#4   4   4   4
+#5   5   5   5   5
+
+2. Write tables upto 10 as below format
+
+2 * 2 = 4
+2 * 3 = 6 .. 
+
+3. List out all prime number up to given number. 
+
+4. How to reverse a list by loop (with out use of list reverse function)
+ 
+5. Print number pyramid
+
+6. Write a loop code terminate loop by typing no.
+
+
+

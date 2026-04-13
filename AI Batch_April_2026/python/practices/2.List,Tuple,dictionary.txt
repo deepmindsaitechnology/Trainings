@@ -1,0 +1,13 @@
+list=[[1,2],[3,4],[5,6],[7,8]]
+
+1. # two dimention lists
+How to get '4' from above list
+2. How to insert elment in [3,4] as [5,3,4]
+
+
+Tuple =[(1,2),(5,-6),(4,3)]
+
+3 how to sort on the second elements in the inside tuples.2,-6,3
+
+results should be - [(5,-6),(1,2),(4,3)]
+ 

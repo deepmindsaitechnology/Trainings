@@ -1,0 +1,1 @@
+1. write a program for mathamatical functions (add,sub,mul,division) and print results.
