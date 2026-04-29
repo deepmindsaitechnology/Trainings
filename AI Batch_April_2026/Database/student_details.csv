@@ -1,0 +1,501 @@
+student_id,student_name,class,hobby,father_name,contact_number,address,bus_route
+1,Rahul Reddy,6,Reading,Meera Varma,9826600539,"H.No. 759, Tarnaka, Hyderabad",Route-9
+2,Sai Das,5,Music,Akash Sharma,9349817734,"H.No. 518, Begumpet, Hyderabad",Route-1
+3,Divya Yadav,6,Coding,Madhavi Nair,9969119330,"H.No. 891, Ameerpet, Hyderabad",Route-3
+4,Akash Mishra,6,Reading,Meera Naidu,9199585092,"H.No. 390, Kukatpally, Hyderabad",Route-6
+5,Teja Kulkarni,10,Skating,Sneha Sharma,9234031070,"H.No. 997, Tarnaka, Hyderabad",Route-7
+6,Sai Joshi,7,Music,Riya Kulkarni,9856528252,"H.No. 72, Ameerpet, Hyderabad",Route-11
+7,Kavya Gupta,5,Coding,Sai Varma,9586845604,"H.No. 651, Nizampet, Hyderabad",Route-6
+8,Ananya Agarwal,10,Badminton,Teja Yadav,9754049436,"H.No. 651, Miyapur, Hyderabad",Route-9
+9,Pooja Patel,7,Skating,Rohit Iyer,9335809993,"H.No. 702, LB Nagar, Hyderabad",Route-1
+10,Kavya Sharma,7,Music,Abhiram Iyer,9709004943,"H.No. 898, Manikonda, Hyderabad",Route-6
+11,Saanvi Chowdary,6,Drawing,Likith Babu,9364814270,"H.No. 763, Secunderabad, Hyderabad",Route-9
+12,Sneha Das,8,Dance,Akash Das,9248532577,"H.No. 522, Gachibowli, Hyderabad",Route-2
+13,Vihaan Rao,10,Badminton,Nikhil Patel,9513140753,"H.No. 391, Begumpet, Hyderabad",Route-8
+14,Sirisha Singh,10,Reading,Divya Reddy,9831980933,"H.No. 907, Secunderabad, Hyderabad",Route-5
+15,Charan Rao,6,Cricket,Riya Nair,9875340444,"H.No. 897, Manikonda, Hyderabad",Route-5
+16,Keerthi Patel,10,Story Writing,Keerthi Rao,9753876785,"H.No. 204, Miyapur, Hyderabad",Route-6
+17,Ananya Joshi,9,Yoga,Sirisha Reddy,9120912992,"H.No. 115, Tarnaka, Hyderabad",Route-6
+18,Priya Varma,9,Badminton,Vihaan Varma,9885879795,"H.No. 498, Nizampet, Hyderabad",Route-2
+19,Madhavi Naidu,9,Coding,Kiran Chowdary,9666585408,"H.No. 894, Begumpet, Hyderabad",Route-7
+20,Saanvi Joshi,8,Kabaddi,Ishita Gupta,9570406376,"H.No. 922, Secunderabad, Hyderabad",Route-8
+21,Rahul Varma,7,Skating,Kavya Kumar,9347083812,"H.No. 603, Uppal, Hyderabad",Route-1
+22,Arjun Sharma,5,Badminton,Kavya Kumar,9652070932,"H.No. 244, Dilsukhnagar, Hyderabad",Route-11
+23,Bhavya Yadav,10,Yoga,Madhavi Naidu,9360916298,"H.No. 804, Gachibowli, Hyderabad",Route-7
+24,Ishita Rao,7,Cycling,Krishna Nair,9601463916,"H.No. 885, Manikonda, Hyderabad",Route-1
+25,Krishna Sharma,5,Music,Likith Mishra,9304235259,"H.No. 550, Gachibowli, Hyderabad",Route-3
+26,Akash Patel,6,Swimming,Meera Babu,9967607278,"H.No. 883, Nizampet, Hyderabad",Route-9
+27,Krishna Sharma,5,Chess,Madhavi Reddy,9536383774,"H.No. 498, Gachibowli, Hyderabad",Route-4
+28,Likith Sharma,5,Coding,Ananya Iyer,9941889393,"H.No. 804, Gachibowli, Hyderabad",Route-5
+29,Akash Joshi,6,Music,Bhavya Naidu,9162795957,"H.No. 594, Manikonda, Hyderabad",Route-9
+30,Vihaan Mishra,9,Story Writing,Vihaan Sharma,9670292350,"H.No. 162, Ameerpet, Hyderabad",Route-9
+31,Sai Patel,5,Dance,Arjun Kulkarni,9533550699,"H.No. 123, Tarnaka, Hyderabad",Route-10
+32,Pooja Das,9,Cycling,Navya Sharma,9805849060,"H.No. 598, Begumpet, Hyderabad",Route-9
+33,Abhiram Singh,6,Volleyball,Saanvi Mishra,9240529481,"H.No. 688, Nagole, Hyderabad",Route-5
+34,Rohit Mishra,8,Reading,Arjun Reddy,9178663096,"H.No. 551, Uppal, Hyderabad",Route-9
+35,Sneha Naidu,6,Singing,Teja Kumar,9269379374,"H.No. 449, Nizampet, Hyderabad",Route-9
+36,Priya Kulkarni,10,Singing,Sirisha Reddy,9812308209,"H.No. 107, Tarnaka, Hyderabad",Route-3
+37,Sneha Rao,6,Singing,Krishna Joshi,9749431082,"H.No. 216, Manikonda, Hyderabad",Route-6
+38,Saanvi Singh,7,Badminton,Keerthi Chowdary,9781057736,"H.No. 434, Nizampet, Hyderabad",Route-5
+39,Aditya Reddy,10,Chess,Charan Naidu,9895890631,"H.No. 453, Secunderabad, Hyderabad",Route-12
+40,Akash Joshi,5,Drawing,Aarav Rao,9685823118,"H.No. 37, Nizampet, Hyderabad",Route-6
+41,Manasa Joshi,6,Singing,Nikhil Nair,9491541578,"H.No. 921, Tarnaka, Hyderabad",Route-1
+42,Teja Yadav,7,Cycling,Pooja Rao,9766430218,"H.No. 768, Miyapur, Hyderabad",Route-4
+43,Ananya Patel,6,Painting,Naveen Reddy,9940081098,"H.No. 954, Madhapur, Hyderabad",Route-11
+44,Pooja Singh,8,Yoga,Ananya Rao,9338836384,"H.No. 205, Nizampet, Hyderabad",Route-8
+45,Teja Gupta,5,Music,Kavya Varma,9527849588,"H.No. 337, Dilsukhnagar, Hyderabad",Route-2
+46,Meera Agarwal,10,Painting,Keerthi Iyer,9129635852,"H.No. 119, Tarnaka, Hyderabad",Route-5
+47,Diya Das,5,Cycling,Sneha Sharma,9471178705,"H.No. 747, Kondapur, Hyderabad",Route-6
+48,Akash Kulkarni,8,Music,Keerthi Rao,9373506211,"H.No. 46, Manikonda, Hyderabad",Route-7
+49,Aarav Verma,7,Badminton,Madhavi Yadav,9813219781,"H.No. 943, LB Nagar, Hyderabad",Route-10
+50,Abhiram Rao,7,Cycling,Priya Verma,9450236225,"H.No. 413, Manikonda, Hyderabad",Route-5
+51,Divya Naidu,10,Chess,Ishita Nair,9760904107,"H.No. 583, Dilsukhnagar, Hyderabad",Route-7
+52,Divya Reddy,6,Painting,Priya Gupta,9599277266,"H.No. 453, Gachibowli, Hyderabad",Route-11
+53,Saanvi Verma,10,Singing,Lakshmi Patel,9653462378,"H.No. 680, Nagole, Hyderabad",Route-10
+54,Charan Kumar,6,Drawing,Pooja Gupta,9126226563,"H.No. 48, Uppal, Hyderabad",Route-8
+55,Harini Kumar,10,Music,Rohit Nair,9871318048,"H.No. 714, Madhapur, Hyderabad",Route-8
+56,Likith Varma,5,Dance,Nikhil Reddy,9288856883,"H.No. 824, Manikonda, Hyderabad",Route-9
+57,Rohit Sharma,5,Drawing,Divya Varma,9960514523,"H.No. 476, Nagole, Hyderabad",Route-9
+58,Divya Kulkarni,9,Story Writing,Abhiram Babu,9558209399,"H.No. 851, Tarnaka, Hyderabad",Route-9
+59,Manoj Patel,7,Coding,Lakshmi Babu,9922286180,"H.No. 797, Secunderabad, Hyderabad",Route-8
+60,Pooja Singh,10,Dance,Manoj Kumar,9391751878,"H.No. 344, LB Nagar, Hyderabad",Route-9
+61,Sai Naidu,8,Drawing,Nikhil Varma,9858511779,"H.No. 220, Kukatpally, Hyderabad",Route-7
+62,Naveen Mishra,8,Music,Madhavi Babu,9994310083,"H.No. 431, Madhapur, Hyderabad",Route-10
+63,Vivaan Das,5,Singing,Vamsi Chowdary,9909037759,"H.No. 400, Nizampet, Hyderabad",Route-7
+64,Madhavi Joshi,8,Coding,Navya Varma,9567975319,"H.No. 498, Ameerpet, Hyderabad",Route-7
+65,Charan Iyer,6,Skating,Ananya Babu,9128955006,"H.No. 929, Madhapur, Hyderabad",Route-10
+66,Pallavi Reddy,6,Chess,Sai Nair,9153992714,"H.No. 267, Madhapur, Hyderabad",Route-6
+67,Saanvi Babu,8,Cycling,Abhiram Mishra,9370874491,"H.No. 855, Kukatpally, Hyderabad",Route-8
+68,Vivaan Joshi,6,Badminton,Vihaan Agarwal,9938842599,"H.No. 981, Nagole, Hyderabad",Route-1
+69,Vivaan Varma,9,Dance,Ishita Reddy,9235528741,"H.No. 485, Nagole, Hyderabad",Route-2
+70,Pallavi Yadav,7,Reading,Rohit Singh,9935147672,"H.No. 839, Miyapur, Hyderabad",Route-5
+71,Krishna Das,9,Volleyball,Vivaan Gupta,9525904456,"H.No. 965, Manikonda, Hyderabad",Route-4
+72,Arjun Das,10,Reading,Pooja Rao,9954942461,"H.No. 580, Kondapur, Hyderabad",Route-1
+73,Teja Joshi,5,Painting,Akash Agarwal,9113585139,"H.No. 870, Madhapur, Hyderabad",Route-8
+74,Krishna Nair,10,Cycling,Harsha Babu,9289125618,"H.No. 752, Secunderabad, Hyderabad",Route-11
+75,Meera Kulkarni,8,Coding,Madhavi Chowdary,9446071904,"H.No. 873, Uppal, Hyderabad",Route-2
+76,Meera Babu,9,Volleyball,Pooja Babu,9461203124,"H.No. 30, Gachibowli, Hyderabad",Route-6
+77,Diya Chowdary,7,Coding,Saanvi Agarwal,9740116562,"H.No. 719, Tarnaka, Hyderabad",Route-5
+78,Divya Reddy,5,Cycling,Sirisha Yadav,9624606470,"H.No. 569, Kondapur, Hyderabad",Route-4
+79,Lakshmi Chowdary,5,Dance,Manoj Reddy,9534222401,"H.No. 709, Uppal, Hyderabad",Route-5
+80,Manasa Agarwal,9,Cycling,Lakshmi Joshi,9900942073,"H.No. 564, LB Nagar, Hyderabad",Route-6
+81,Rohit Singh,6,Music,Priya Singh,9438817025,"H.No. 123, Manikonda, Hyderabad",Route-9
+82,Diya Yadav,7,Story Writing,Saanvi Chowdary,9740799178,"H.No. 290, Kukatpally, Hyderabad",Route-4
+83,Riya Varma,7,Skating,Harsha Patel,9235917419,"H.No. 281, Ameerpet, Hyderabad",Route-1
+84,Divya Gupta,5,Singing,Kiran Chowdary,9604011128,"H.No. 491, Gachibowli, Hyderabad",Route-6
+85,Diya Sharma,5,Volleyball,Sneha Chowdary,9628008852,"H.No. 76, Begumpet, Hyderabad",Route-11
+86,Vihaan Naidu,7,Dance,Nikhil Das,9227186396,"H.No. 572, Kondapur, Hyderabad",Route-7
+87,Navya Kulkarni,9,Swimming,Harini Varma,9575368059,"H.No. 305, Nizampet, Hyderabad",Route-10
+88,Akash Gupta,5,Reading,Pallavi Kulkarni,9918982730,"H.No. 213, Nagole, Hyderabad",Route-4
+89,Sneha Kumar,6,Badminton,Ananya Varma,9268075622,"H.No. 3, Madhapur, Hyderabad",Route-8
+90,Navya Chowdary,6,Singing,Riya Sharma,9854827139,"H.No. 881, Gachibowli, Hyderabad",Route-2
+91,Kavya Singh,8,Skating,Manasa Yadav,9341387305,"H.No. 664, Miyapur, Hyderabad",Route-5
+92,Nikhil Kumar,7,Singing,Vihaan Patel,9571537429,"H.No. 128, Gachibowli, Hyderabad",Route-12
+93,Priya Iyer,9,Swimming,Meera Verma,9186373782,"H.No. 613, Ameerpet, Hyderabad",Route-7
+94,Abhiram Kulkarni,5,Cricket,Sneha Reddy,9921155204,"H.No. 689, Nizampet, Hyderabad",Route-5
+95,Pallavi Sharma,9,Swimming,Diya Chowdary,9398668350,"H.No. 186, Begumpet, Hyderabad",Route-7
+96,Bhavya Kumar,8,Painting,Lakshmi Agarwal,9819550381,"H.No. 108, Nizampet, Hyderabad",Route-3
+97,Charan Nair,10,Skating,Bhavya Gupta,9139403247,"H.No. 466, Kukatpally, Hyderabad",Route-6
+98,Sneha Mishra,9,Skating,Rahul Iyer,9596043327,"H.No. 424, Ameerpet, Hyderabad",Route-4
+99,Sirisha Agarwal,10,Football,Harini Chowdary,9318568997,"H.No. 274, Secunderabad, Hyderabad",Route-3
+100,Riya Babu,5,Dance,Bhavya Rao,9862123506,"H.No. 163, Dilsukhnagar, Hyderabad",Route-9
+101,Aarav Joshi,6,Swimming,Naveen Kumar,9226128312,"H.No. 664, Nizampet, Hyderabad",Route-3
+102,Bhavya Gupta,8,Yoga,Keerthi Singh,9361704064,"H.No. 468, Secunderabad, Hyderabad",Route-3
+103,Vamsi Yadav,10,Badminton,Navya Verma,9396618390,"H.No. 792, Kondapur, Hyderabad",Route-7
+104,Charan Verma,7,Singing,Meera Reddy,9999232921,"H.No. 602, Begumpet, Hyderabad",Route-11
+105,Bhavya Naidu,8,Painting,Manoj Joshi,9692616814,"H.No. 782, Secunderabad, Hyderabad",Route-7
+106,Rohit Mishra,9,Dance,Ishita Varma,9932734539,"H.No. 421, Ameerpet, Hyderabad",Route-6
+107,Lakshmi Iyer,8,Drawing,Vamsi Naidu,9639331014,"H.No. 989, Begumpet, Hyderabad",Route-6
+108,Krishna Babu,8,Drawing,Krishna Verma,9540211187,"H.No. 892, Nagole, Hyderabad",Route-3
+109,Arjun Chowdary,9,Volleyball,Sneha Mishra,9797756796,"H.No. 83, Nizampet, Hyderabad",Route-6
+110,Madhavi Iyer,9,Badminton,Abhiram Chowdary,9352082631,"H.No. 647, Nagole, Hyderabad",Route-5
+111,Kavya Kumar,10,Reading,Akash Rao,9576396216,"H.No. 171, Manikonda, Hyderabad",Route-5
+112,Vivaan Sharma,7,Kabaddi,Abhiram Sharma,9562446417,"H.No. 150, Uppal, Hyderabad",Route-9
+113,Naveen Das,6,Volleyball,Diya Patel,9765408938,"H.No. 700, Uppal, Hyderabad",Route-8
+114,Manasa Naidu,10,Swimming,Kavya Babu,9374154962,"H.No. 683, Ameerpet, Hyderabad",Route-8
+115,Riya Joshi,8,Singing,Ananya Kumar,9786055206,"H.No. 986, Madhapur, Hyderabad",Route-12
+116,Sneha Babu,8,Reading,Priya Yadav,9354697684,"H.No. 391, Begumpet, Hyderabad",Route-6
+117,Pallavi Gupta,10,Coding,Riya Reddy,9108695125,"H.No. 580, Nizampet, Hyderabad",Route-11
+118,Vihaan Kulkarni,6,Kabaddi,Bhavya Gupta,9335154329,"H.No. 652, Uppal, Hyderabad",Route-10
+119,Sneha Naidu,7,Football,Krishna Sharma,9722312633,"H.No. 374, Manikonda, Hyderabad",Route-3
+120,Sai Gupta,6,Drawing,Abhiram Nair,9944511703,"H.No. 553, Tarnaka, Hyderabad",Route-6
+121,Sirisha Verma,7,Singing,Meera Patel,9901611993,"H.No. 892, LB Nagar, Hyderabad",Route-2
+122,Rohit Kumar,10,Volleyball,Nikhil Varma,9963919401,"H.No. 571, LB Nagar, Hyderabad",Route-2
+123,Likith Reddy,5,Kabaddi,Sneha Joshi,9822443971,"H.No. 767, Nagole, Hyderabad",Route-5
+124,Manasa Iyer,10,Yoga,Harsha Rao,9126870011,"H.No. 635, Tarnaka, Hyderabad",Route-9
+125,Abhiram Kulkarni,10,Singing,Kavya Kumar,9797115550,"H.No. 419, Kukatpally, Hyderabad",Route-3
+126,Aditya Sharma,5,Dance,Priya Chowdary,9677186272,"H.No. 139, Madhapur, Hyderabad",Route-8
+127,Harsha Joshi,10,Drawing,Naveen Das,9545478870,"H.No. 671, Kukatpally, Hyderabad",Route-8
+128,Harini Nair,10,Music,Meera Sharma,9576078963,"H.No. 456, Uppal, Hyderabad",Route-6
+129,Krishna Agarwal,5,Coding,Madhavi Agarwal,9303805386,"H.No. 992, Kukatpally, Hyderabad",Route-8
+130,Sai Yadav,5,Dance,Navya Reddy,9235209737,"H.No. 806, Begumpet, Hyderabad",Route-4
+131,Arjun Joshi,6,Painting,Saanvi Das,9931471931,"H.No. 152, Kondapur, Hyderabad",Route-10
+132,Aarav Singh,9,Chess,Nikhil Naidu,9218032515,"H.No. 677, Nizampet, Hyderabad",Route-1
+133,Kiran Reddy,9,Cricket,Teja Varma,9287095435,"H.No. 272, Ameerpet, Hyderabad",Route-3
+134,Naveen Verma,8,Kabaddi,Rahul Kumar,9651085057,"H.No. 608, Kukatpally, Hyderabad",Route-8
+135,Keerthi Varma,10,Story Writing,Harini Sharma,9423873102,"H.No. 470, Nagole, Hyderabad",Route-1
+136,Vihaan Chowdary,10,Yoga,Likith Nair,9864935082,"H.No. 932, Gachibowli, Hyderabad",Route-2
+137,Sai Mishra,5,Coding,Navya Naidu,9770355806,"H.No. 649, Begumpet, Hyderabad",Route-9
+138,Abhiram Iyer,7,Story Writing,Navya Verma,9750072069,"H.No. 441, Kukatpally, Hyderabad",Route-12
+139,Rahul Joshi,8,Cycling,Saanvi Nair,9463925049,"H.No. 848, Gachibowli, Hyderabad",Route-7
+140,Naveen Rao,7,Coding,Abhiram Nair,9501902658,"H.No. 977, Miyapur, Hyderabad",Route-11
+141,Lakshmi Kumar,5,Reading,Sai Kumar,9899496315,"H.No. 757, LB Nagar, Hyderabad",Route-3
+142,Divya Sharma,9,Reading,Manasa Joshi,9541102414,"H.No. 363, Nizampet, Hyderabad",Route-11
+143,Akash Sharma,7,Reading,Riya Kulkarni,9720535283,"H.No. 520, Uppal, Hyderabad",Route-3
+144,Lakshmi Varma,9,Reading,Krishna Agarwal,9918841563,"H.No. 286, Begumpet, Hyderabad",Route-4
+145,Akash Joshi,10,Skating,Harini Kulkarni,9128189836,"H.No. 624, Tarnaka, Hyderabad",Route-11
+146,Meera Reddy,10,Painting,Diya Singh,9476908532,"H.No. 7, Miyapur, Hyderabad",Route-3
+147,Pallavi Iyer,10,Cricket,Arjun Naidu,9198524063,"H.No. 765, Secunderabad, Hyderabad",Route-4
+148,Vamsi Nair,6,Singing,Rohit Mishra,9874807770,"H.No. 333, Kondapur, Hyderabad",Route-10
+149,Navya Kumar,6,Football,Vihaan Naidu,9823668399,"H.No. 84, Dilsukhnagar, Hyderabad",Route-8
+150,Akash Chowdary,8,Music,Navya Babu,9910614025,"H.No. 525, Kukatpally, Hyderabad",Route-6
+151,Akash Rao,8,Singing,Riya Das,9148766522,"H.No. 226, Madhapur, Hyderabad",Route-10
+152,Vihaan Reddy,6,Coding,Saanvi Gupta,9410791488,"H.No. 336, Kukatpally, Hyderabad",Route-1
+153,Bhavya Nair,8,Dance,Diya Naidu,9637152602,"H.No. 573, Nizampet, Hyderabad",Route-11
+154,Teja Kumar,8,Swimming,Likith Sharma,9183604337,"H.No. 883, LB Nagar, Hyderabad",Route-10
+155,Akash Das,7,Volleyball,Likith Nair,9122394554,"H.No. 990, LB Nagar, Hyderabad",Route-3
+156,Harini Babu,8,Dance,Harsha Kumar,9567804106,"H.No. 604, Madhapur, Hyderabad",Route-9
+157,Sai Iyer,6,Chess,Priya Mishra,9182011731,"H.No. 523, Nagole, Hyderabad",Route-2
+158,Sirisha Verma,7,Drawing,Ishita Agarwal,9353691745,"H.No. 106, Miyapur, Hyderabad",Route-5
+159,Ishita Patel,10,Chess,Navya Naidu,9929839316,"H.No. 644, Gachibowli, Hyderabad",Route-8
+160,Pallavi Das,10,Painting,Manoj Das,9773469560,"H.No. 324, Miyapur, Hyderabad",Route-8
+161,Arjun Chowdary,7,Football,Manoj Gupta,9477895080,"H.No. 520, Kukatpally, Hyderabad",Route-5
+162,Rohit Babu,7,Badminton,Aditya Sharma,9792205349,"H.No. 885, Nizampet, Hyderabad",Route-2
+163,Harini Kulkarni,8,Skating,Keerthi Iyer,9950207886,"H.No. 757, Tarnaka, Hyderabad",Route-1
+164,Manoj Das,9,Story Writing,Ishita Mishra,9261985842,"H.No. 981, Ameerpet, Hyderabad",Route-8
+165,Krishna Mishra,10,Football,Sai Verma,9366012797,"H.No. 725, Gachibowli, Hyderabad",Route-8
+166,Sirisha Verma,7,Singing,Harini Patel,9515985367,"H.No. 419, Kondapur, Hyderabad",Route-6
+167,Navya Sharma,7,Skating,Charan Kumar,9828404274,"H.No. 396, Dilsukhnagar, Hyderabad",Route-5
+168,Navya Naidu,9,Drawing,Charan Kumar,9475617211,"H.No. 318, Nagole, Hyderabad",Route-12
+169,Likith Naidu,7,Volleyball,Navya Kumar,9790945624,"H.No. 811, LB Nagar, Hyderabad",Route-3
+170,Sirisha Kumar,7,Kabaddi,Akash Verma,9431642423,"H.No. 185, Uppal, Hyderabad",Route-6
+171,Bhavya Yadav,6,Singing,Kavya Naidu,9946237594,"H.No. 104, Secunderabad, Hyderabad",Route-9
+172,Sirisha Sharma,6,Volleyball,Charan Kulkarni,9265627642,"H.No. 167, Miyapur, Hyderabad",Route-12
+173,Harini Patel,8,Dance,Manoj Sharma,9576954730,"H.No. 626, Dilsukhnagar, Hyderabad",Route-12
+174,Manoj Varma,7,Music,Madhavi Varma,9494966219,"H.No. 695, Begumpet, Hyderabad",Route-8
+175,Rohit Gupta,9,Chess,Vamsi Verma,9977130288,"H.No. 205, Kondapur, Hyderabad",Route-10
+176,Kiran Singh,7,Reading,Vihaan Chowdary,9863860982,"H.No. 867, Secunderabad, Hyderabad",Route-2
+177,Riya Kumar,8,Drawing,Ananya Singh,9992329618,"H.No. 448, Kukatpally, Hyderabad",Route-4
+178,Manoj Agarwal,5,Story Writing,Vivaan Nair,9501538092,"H.No. 242, Madhapur, Hyderabad",Route-2
+179,Harsha Varma,5,Painting,Vivaan Mishra,9949738493,"H.No. 150, Miyapur, Hyderabad",Route-1
+180,Riya Chowdary,8,Cricket,Kiran Chowdary,9185068029,"H.No. 20, Dilsukhnagar, Hyderabad",Route-4
+181,Nikhil Joshi,8,Singing,Navya Verma,9355164255,"H.No. 309, Kukatpally, Hyderabad",Route-1
+182,Pooja Nair,5,Yoga,Harini Babu,9740743666,"H.No. 549, Ameerpet, Hyderabad",Route-11
+183,Keerthi Das,7,Cricket,Pooja Naidu,9760146764,"H.No. 362, Uppal, Hyderabad",Route-10
+184,Naveen Patel,7,Story Writing,Sai Verma,9684203557,"H.No. 520, Kondapur, Hyderabad",Route-9
+185,Divya Reddy,5,Volleyball,Vamsi Chowdary,9500830389,"H.No. 260, Manikonda, Hyderabad",Route-1
+186,Teja Kumar,10,Reading,Teja Varma,9928393291,"H.No. 596, Manikonda, Hyderabad",Route-6
+187,Kiran Sharma,7,Chess,Teja Joshi,9991617660,"H.No. 798, Nagole, Hyderabad",Route-8
+188,Lakshmi Patel,10,Football,Kiran Kumar,9415081566,"H.No. 207, Ameerpet, Hyderabad",Route-4
+189,Aditya Mishra,8,Yoga,Priya Verma,9371993587,"H.No. 38, Kondapur, Hyderabad",Route-11
+190,Ishita Gupta,10,Coding,Teja Sharma,9233654018,"H.No. 819, LB Nagar, Hyderabad",Route-7
+191,Likith Babu,6,Yoga,Vamsi Mishra,9494435754,"H.No. 947, Kondapur, Hyderabad",Route-9
+192,Meera Kumar,8,Chess,Akash Kumar,9685698675,"H.No. 301, LB Nagar, Hyderabad",Route-2
+193,Sai Mishra,8,Cycling,Riya Gupta,9278933456,"H.No. 707, Gachibowli, Hyderabad",Route-6
+194,Manoj Sharma,8,Football,Teja Kulkarni,9180574838,"H.No. 688, Nagole, Hyderabad",Route-7
+195,Harsha Verma,6,Swimming,Ananya Reddy,9137365109,"H.No. 130, Kukatpally, Hyderabad",Route-4
+196,Harsha Agarwal,5,Drawing,Vamsi Das,9829137330,"H.No. 461, LB Nagar, Hyderabad",Route-6
+197,Manoj Kumar,9,Volleyball,Pallavi Naidu,9437568796,"H.No. 666, Dilsukhnagar, Hyderabad",Route-4
+198,Rahul Reddy,9,Skating,Diya Chowdary,9226444910,"H.No. 269, Kondapur, Hyderabad",Route-5
+199,Manoj Yadav,10,Music,Harini Gupta,9231680929,"H.No. 139, Nizampet, Hyderabad",Route-2
+200,Manoj Patel,10,Kabaddi,Manoj Kumar,9861863296,"H.No. 67, Secunderabad, Hyderabad",Route-9
+201,Riya Gupta,7,Dance,Ananya Patel,9230311939,"H.No. 206, Kondapur, Hyderabad",Route-3
+202,Pooja Chowdary,9,Kabaddi,Vivaan Agarwal,9601873197,"H.No. 823, Secunderabad, Hyderabad",Route-3
+203,Harini Kumar,8,Yoga,Arjun Gupta,9664461415,"H.No. 421, Kondapur, Hyderabad",Route-7
+204,Pallavi Kumar,10,Swimming,Kiran Mishra,9600184588,"H.No. 697, Secunderabad, Hyderabad",Route-6
+205,Kiran Joshi,6,Story Writing,Manasa Patel,9159499094,"H.No. 852, Kukatpally, Hyderabad",Route-9
+206,Nikhil Gupta,7,Dance,Ananya Patel,9471539452,"H.No. 971, Secunderabad, Hyderabad",Route-5
+207,Sai Singh,7,Singing,Ishita Joshi,9759737342,"H.No. 547, Kukatpally, Hyderabad",Route-9
+208,Ananya Das,6,Painting,Manasa Naidu,9705180256,"H.No. 43, Nizampet, Hyderabad",Route-1
+209,Sai Sharma,10,Cycling,Pallavi Singh,9763688866,"H.No. 655, Ameerpet, Hyderabad",Route-8
+210,Madhavi Gupta,6,Volleyball,Priya Chowdary,9419367188,"H.No. 465, Kukatpally, Hyderabad",Route-12
+211,Vihaan Patel,8,Music,Manoj Nair,9465278987,"H.No. 622, Miyapur, Hyderabad",Route-6
+212,Abhiram Agarwal,7,Skating,Likith Naidu,9214014134,"H.No. 327, Uppal, Hyderabad",Route-8
+213,Rahul Singh,6,Football,Manoj Varma,9411612760,"H.No. 969, Madhapur, Hyderabad",Route-10
+214,Naveen Varma,9,Painting,Ananya Mishra,9303832812,"H.No. 782, Miyapur, Hyderabad",Route-8
+215,Keerthi Babu,8,Badminton,Bhavya Gupta,9522240582,"H.No. 518, Gachibowli, Hyderabad",Route-4
+216,Saanvi Das,5,Yoga,Teja Sharma,9741580895,"H.No. 904, Nizampet, Hyderabad",Route-11
+217,Lakshmi Gupta,5,Drawing,Madhavi Reddy,9383975609,"H.No. 745, LB Nagar, Hyderabad",Route-7
+218,Harsha Sharma,9,Music,Likith Sharma,9489256938,"H.No. 567, Dilsukhnagar, Hyderabad",Route-2
+219,Vamsi Verma,7,Reading,Manoj Joshi,9238151258,"H.No. 999, Kukatpally, Hyderabad",Route-7
+220,Harsha Mishra,6,Story Writing,Divya Agarwal,9530986098,"H.No. 513, Ameerpet, Hyderabad",Route-1
+221,Aditya Naidu,9,Drawing,Charan Chowdary,9750967273,"H.No. 915, Secunderabad, Hyderabad",Route-3
+222,Abhiram Kulkarni,8,Singing,Abhiram Patel,9737506993,"H.No. 345, Secunderabad, Hyderabad",Route-9
+223,Madhavi Chowdary,8,Kabaddi,Pallavi Gupta,9455665802,"H.No. 690, Kukatpally, Hyderabad",Route-7
+224,Manasa Gupta,8,Dance,Vivaan Kulkarni,9874597473,"H.No. 53, Begumpet, Hyderabad",Route-8
+225,Ananya Verma,6,Dance,Harini Iyer,9133898577,"H.No. 587, Manikonda, Hyderabad",Route-2
+226,Ishita Reddy,8,Cycling,Manoj Mishra,9841419015,"H.No. 209, Madhapur, Hyderabad",Route-9
+227,Harini Chowdary,9,Skating,Vihaan Naidu,9449019278,"H.No. 679, Gachibowli, Hyderabad",Route-9
+228,Vamsi Mishra,9,Skating,Diya Babu,9480412754,"H.No. 693, Kondapur, Hyderabad",Route-12
+229,Sneha Kulkarni,6,Skating,Lakshmi Yadav,9420511037,"H.No. 231, Dilsukhnagar, Hyderabad",Route-5
+230,Saanvi Chowdary,7,Coding,Abhiram Chowdary,9409011489,"H.No. 125, Begumpet, Hyderabad",Route-11
+231,Madhavi Iyer,6,Football,Likith Agarwal,9408840720,"H.No. 979, Manikonda, Hyderabad",Route-2
+232,Teja Babu,6,Skating,Sneha Chowdary,9391126537,"H.No. 956, Secunderabad, Hyderabad",Route-12
+233,Meera Naidu,10,Dance,Krishna Kulkarni,9360337343,"H.No. 52, Nagole, Hyderabad",Route-9
+234,Kavya Varma,8,Yoga,Vihaan Rao,9207959268,"H.No. 698, Kondapur, Hyderabad",Route-3
+235,Aarav Joshi,10,Yoga,Ananya Nair,9798510601,"H.No. 205, Kondapur, Hyderabad",Route-5
+236,Abhiram Gupta,10,Dance,Vihaan Kumar,9674615376,"H.No. 757, Manikonda, Hyderabad",Route-1
+237,Diya Nair,8,Chess,Diya Sharma,9904236062,"H.No. 986, Nizampet, Hyderabad",Route-5
+238,Aditya Reddy,9,Painting,Priya Das,9405545745,"H.No. 466, Nagole, Hyderabad",Route-9
+239,Sirisha Chowdary,8,Music,Kiran Verma,9968457290,"H.No. 116, LB Nagar, Hyderabad",Route-3
+240,Rohit Singh,10,Singing,Diya Reddy,9709650444,"H.No. 691, Kondapur, Hyderabad",Route-4
+241,Diya Kulkarni,9,Badminton,Likith Nair,9530391423,"H.No. 686, Kukatpally, Hyderabad",Route-3
+242,Kiran Chowdary,5,Volleyball,Abhiram Varma,9352889019,"H.No. 458, Kondapur, Hyderabad",Route-5
+243,Charan Gupta,5,Kabaddi,Manasa Das,9843854609,"H.No. 242, Ameerpet, Hyderabad",Route-11
+244,Rahul Babu,8,Story Writing,Priya Patel,9855438611,"H.No. 789, Dilsukhnagar, Hyderabad",Route-12
+245,Rahul Gupta,6,Drawing,Harsha Kulkarni,9613443905,"H.No. 157, Gachibowli, Hyderabad",Route-12
+246,Navya Agarwal,8,Music,Naveen Joshi,9918040539,"H.No. 254, Nagole, Hyderabad",Route-10
+247,Sai Verma,10,Badminton,Manoj Verma,9705771555,"H.No. 115, Ameerpet, Hyderabad",Route-9
+248,Keerthi Yadav,6,Painting,Pallavi Joshi,9658712474,"H.No. 453, Kukatpally, Hyderabad",Route-11
+249,Saanvi Das,9,Football,Bhavya Kumar,9586869229,"H.No. 136, Secunderabad, Hyderabad",Route-7
+250,Rohit Das,8,Singing,Vihaan Joshi,9876616079,"H.No. 23, Madhapur, Hyderabad",Route-5
+251,Aarav Yadav,5,Kabaddi,Manasa Kumar,9852032540,"H.No. 66, Secunderabad, Hyderabad",Route-1
+252,Arjun Chowdary,8,Drawing,Aditya Gupta,9922301213,"H.No. 657, Manikonda, Hyderabad",Route-11
+253,Naveen Agarwal,8,Badminton,Vamsi Babu,9833076128,"H.No. 988, Nagole, Hyderabad",Route-9
+254,Kiran Agarwal,9,Story Writing,Rahul Patel,9236737888,"H.No. 746, Uppal, Hyderabad",Route-1
+255,Vivaan Gupta,8,Volleyball,Rohit Joshi,9984076542,"H.No. 236, Uppal, Hyderabad",Route-8
+256,Teja Naidu,10,Football,Meera Yadav,9969170578,"H.No. 677, Madhapur, Hyderabad",Route-10
+257,Vivaan Varma,5,Football,Saanvi Kumar,9579362443,"H.No. 613, Nagole, Hyderabad",Route-12
+258,Vihaan Varma,8,Skating,Aditya Iyer,9333291033,"H.No. 773, Nizampet, Hyderabad",Route-1
+259,Kiran Verma,10,Painting,Riya Varma,9720058859,"H.No. 613, Kondapur, Hyderabad",Route-11
+260,Abhiram Varma,10,Dance,Priya Naidu,9544056890,"H.No. 308, Dilsukhnagar, Hyderabad",Route-1
+261,Divya Das,9,Football,Diya Nair,9469812603,"H.No. 965, Nagole, Hyderabad",Route-11
+262,Vamsi Verma,8,Singing,Abhiram Nair,9504221050,"H.No. 189, Kondapur, Hyderabad",Route-9
+263,Lakshmi Varma,10,Swimming,Kavya Gupta,9161873231,"H.No. 576, Madhapur, Hyderabad",Route-7
+264,Divya Verma,6,Music,Kiran Iyer,9454617185,"H.No. 663, Kukatpally, Hyderabad",Route-8
+265,Harsha Kumar,5,Volleyball,Madhavi Yadav,9823349713,"H.No. 620, Begumpet, Hyderabad",Route-1
+266,Arjun Yadav,6,Music,Manasa Joshi,9457517705,"H.No. 311, Tarnaka, Hyderabad",Route-1
+267,Saanvi Yadav,6,Music,Rahul Chowdary,9525880424,"H.No. 938, Uppal, Hyderabad",Route-9
+268,Abhiram Gupta,9,Kabaddi,Vamsi Babu,9431165907,"H.No. 268, LB Nagar, Hyderabad",Route-9
+269,Bhavya Babu,7,Kabaddi,Krishna Chowdary,9435997460,"H.No. 424, Ameerpet, Hyderabad",Route-10
+270,Kavya Naidu,9,Cycling,Vivaan Singh,9416960306,"H.No. 157, Uppal, Hyderabad",Route-6
+271,Kavya Iyer,8,Painting,Pallavi Varma,9376302498,"H.No. 782, Nizampet, Hyderabad",Route-8
+272,Bhavya Babu,6,Skating,Ananya Agarwal,9624325659,"H.No. 189, Tarnaka, Hyderabad",Route-9
+273,Vihaan Verma,10,Cricket,Aditya Kumar,9542802779,"H.No. 141, Nizampet, Hyderabad",Route-11
+274,Kavya Kumar,6,Swimming,Nikhil Reddy,9500721199,"H.No. 62, Begumpet, Hyderabad",Route-11
+275,Harini Chowdary,5,Skating,Bhavya Reddy,9541671360,"H.No. 13, Ameerpet, Hyderabad",Route-9
+276,Meera Joshi,9,Cycling,Riya Reddy,9965615974,"H.No. 963, Tarnaka, Hyderabad",Route-3
+277,Krishna Rao,6,Story Writing,Sirisha Naidu,9371031968,"H.No. 835, LB Nagar, Hyderabad",Route-5
+278,Likith Kumar,8,Dance,Harsha Iyer,9848651792,"H.No. 232, Dilsukhnagar, Hyderabad",Route-11
+279,Sai Sharma,8,Skating,Sai Iyer,9611106584,"H.No. 58, Nagole, Hyderabad",Route-1
+280,Ananya Kumar,10,Reading,Bhavya Nair,9667106600,"H.No. 942, Ameerpet, Hyderabad",Route-4
+281,Saanvi Das,5,Coding,Lakshmi Singh,9683074772,"H.No. 578, Nagole, Hyderabad",Route-1
+282,Diya Mishra,9,Volleyball,Vivaan Yadav,9182611003,"H.No. 307, Miyapur, Hyderabad",Route-10
+283,Pooja Das,7,Drawing,Vamsi Joshi,9948790854,"H.No. 706, Manikonda, Hyderabad",Route-2
+284,Keerthi Agarwal,8,Badminton,Vihaan Rao,9465708674,"H.No. 620, Kondapur, Hyderabad",Route-10
+285,Navya Iyer,10,Swimming,Abhiram Reddy,9626781451,"H.No. 234, LB Nagar, Hyderabad",Route-9
+286,Vamsi Nair,10,Badminton,Diya Das,9929108437,"H.No. 634, Dilsukhnagar, Hyderabad",Route-4
+287,Arjun Kumar,8,Drawing,Meera Naidu,9894198823,"H.No. 399, LB Nagar, Hyderabad",Route-6
+288,Krishna Kumar,8,Coding,Aarav Gupta,9209770151,"H.No. 136, Kukatpally, Hyderabad",Route-3
+289,Akash Babu,9,Reading,Divya Joshi,9128198506,"H.No. 92, LB Nagar, Hyderabad",Route-9
+290,Sai Kulkarni,8,Singing,Navya Mishra,9544325176,"H.No. 398, Kondapur, Hyderabad",Route-2
+291,Divya Varma,6,Volleyball,Pallavi Verma,9282001119,"H.No. 143, Dilsukhnagar, Hyderabad",Route-5
+292,Meera Chowdary,6,Coding,Nikhil Kumar,9552155193,"H.No. 307, Gachibowli, Hyderabad",Route-2
+293,Harsha Singh,9,Music,Pooja Chowdary,9591625191,"H.No. 110, Miyapur, Hyderabad",Route-5
+294,Aarav Iyer,8,Swimming,Charan Kulkarni,9459420281,"H.No. 441, Nizampet, Hyderabad",Route-11
+295,Navya Naidu,9,Music,Priya Mishra,9614332794,"H.No. 322, Miyapur, Hyderabad",Route-7
+296,Abhiram Gupta,6,Volleyball,Bhavya Das,9400969989,"H.No. 837, Kondapur, Hyderabad",Route-7
+297,Harsha Rao,9,Chess,Pallavi Yadav,9831983367,"H.No. 787, Secunderabad, Hyderabad",Route-1
+298,Rohit Yadav,10,Cycling,Manoj Gupta,9822604249,"H.No. 512, Miyapur, Hyderabad",Route-11
+299,Priya Varma,10,Volleyball,Sneha Naidu,9179419456,"H.No. 460, Begumpet, Hyderabad",Route-8
+300,Manasa Iyer,10,Skating,Madhavi Verma,9139476288,"H.No. 810, LB Nagar, Hyderabad",Route-12
+301,Madhavi Kulkarni,6,Kabaddi,Sai Rao,9278604592,"H.No. 663, Begumpet, Hyderabad",Route-1
+302,Pallavi Iyer,5,Reading,Charan Nair,9377818215,"H.No. 228, Secunderabad, Hyderabad",Route-12
+303,Sirisha Joshi,6,Kabaddi,Manasa Das,9519977113,"H.No. 475, Kondapur, Hyderabad",Route-11
+304,Manasa Verma,5,Reading,Nikhil Agarwal,9417217932,"H.No. 426, Tarnaka, Hyderabad",Route-2
+305,Rahul Naidu,7,Music,Teja Gupta,9659542785,"H.No. 495, LB Nagar, Hyderabad",Route-8
+306,Krishna Babu,5,Football,Manoj Mishra,9969930526,"H.No. 728, Kukatpally, Hyderabad",Route-1
+307,Charan Rao,9,Skating,Ananya Varma,9271944408,"H.No. 339, Secunderabad, Hyderabad",Route-7
+308,Rohit Varma,6,Cycling,Likith Patel,9524753348,"H.No. 30, Manikonda, Hyderabad",Route-10
+309,Ishita Babu,8,Music,Manasa Nair,9320959407,"H.No. 286, Kondapur, Hyderabad",Route-12
+310,Arjun Das,6,Painting,Krishna Joshi,9311606895,"H.No. 469, Kukatpally, Hyderabad",Route-5
+311,Bhavya Verma,8,Volleyball,Abhiram Kulkarni,9730291513,"H.No. 117, LB Nagar, Hyderabad",Route-6
+312,Rohit Kulkarni,9,Badminton,Diya Gupta,9821672704,"H.No. 138, LB Nagar, Hyderabad",Route-2
+313,Pooja Gupta,7,Drawing,Rahul Patel,9648494024,"H.No. 398, Madhapur, Hyderabad",Route-10
+314,Kiran Das,6,Skating,Vamsi Nair,9844567935,"H.No. 942, Nagole, Hyderabad",Route-3
+315,Divya Patel,6,Painting,Bhavya Gupta,9584258607,"H.No. 635, Ameerpet, Hyderabad",Route-6
+316,Aarav Chowdary,8,Story Writing,Kiran Yadav,9801228319,"H.No. 507, Madhapur, Hyderabad",Route-11
+317,Bhavya Nair,6,Cricket,Manoj Chowdary,9954570592,"H.No. 780, Uppal, Hyderabad",Route-5
+318,Aditya Singh,7,Swimming,Kavya Joshi,9707362554,"H.No. 761, Kondapur, Hyderabad",Route-8
+319,Divya Verma,5,Skating,Rahul Das,9983993176,"H.No. 376, Secunderabad, Hyderabad",Route-1
+320,Manoj Joshi,5,Dance,Saanvi Nair,9419662531,"H.No. 896, Ameerpet, Hyderabad",Route-8
+321,Sneha Agarwal,5,Music,Sai Babu,9970485411,"H.No. 756, Begumpet, Hyderabad",Route-12
+322,Teja Kulkarni,9,Music,Akash Patel,9973521043,"H.No. 212, Kondapur, Hyderabad",Route-1
+323,Pallavi Agarwal,9,Chess,Madhavi Singh,9447520416,"H.No. 721, Dilsukhnagar, Hyderabad",Route-5
+324,Pallavi Singh,6,Football,Keerthi Rao,9397773877,"H.No. 888, Nagole, Hyderabad",Route-3
+325,Kiran Varma,6,Volleyball,Nikhil Mishra,9625552311,"H.No. 146, Begumpet, Hyderabad",Route-11
+326,Meera Nair,5,Badminton,Vamsi Babu,9532557724,"H.No. 528, Manikonda, Hyderabad",Route-5
+327,Harsha Babu,9,Badminton,Bhavya Mishra,9884832186,"H.No. 996, Gachibowli, Hyderabad",Route-11
+328,Teja Kumar,6,Music,Madhavi Iyer,9631196129,"H.No. 275, LB Nagar, Hyderabad",Route-5
+329,Charan Joshi,9,Painting,Pallavi Naidu,9832884547,"H.No. 781, Ameerpet, Hyderabad",Route-1
+330,Krishna Babu,6,Swimming,Vivaan Rao,9100725768,"H.No. 982, Madhapur, Hyderabad",Route-4
+331,Kiran Gupta,5,Kabaddi,Ananya Singh,9368853440,"H.No. 85, LB Nagar, Hyderabad",Route-11
+332,Ananya Sharma,10,Dance,Likith Gupta,9560883210,"H.No. 672, Kukatpally, Hyderabad",Route-12
+333,Krishna Reddy,5,Dance,Saanvi Chowdary,9657749020,"H.No. 697, Gachibowli, Hyderabad",Route-1
+334,Aarav Mishra,10,Yoga,Rahul Nair,9176051319,"H.No. 235, Madhapur, Hyderabad",Route-2
+335,Krishna Rao,7,Volleyball,Abhiram Agarwal,9930496866,"H.No. 833, Kondapur, Hyderabad",Route-3
+336,Nikhil Kumar,5,Chess,Sirisha Das,9572553155,"H.No. 360, Manikonda, Hyderabad",Route-4
+337,Nikhil Nair,6,Reading,Harini Babu,9250337960,"H.No. 771, Kukatpally, Hyderabad",Route-10
+338,Vamsi Agarwal,6,Coding,Akash Mishra,9792156071,"H.No. 87, Uppal, Hyderabad",Route-9
+339,Navya Kulkarni,10,Singing,Navya Gupta,9320595661,"H.No. 531, Begumpet, Hyderabad",Route-9
+340,Ishita Iyer,6,Volleyball,Riya Sharma,9221057584,"H.No. 247, Gachibowli, Hyderabad",Route-11
+341,Navya Kumar,7,Drawing,Sirisha Reddy,9515364404,"H.No. 882, Nizampet, Hyderabad",Route-10
+342,Naveen Agarwal,8,Cricket,Madhavi Patel,9730676755,"H.No. 70, Ameerpet, Hyderabad",Route-5
+343,Saanvi Sharma,9,Story Writing,Vihaan Iyer,9923678093,"H.No. 426, Madhapur, Hyderabad",Route-12
+344,Likith Kumar,9,Coding,Madhavi Joshi,9189761677,"H.No. 318, Kukatpally, Hyderabad",Route-9
+345,Saanvi Naidu,8,Badminton,Madhavi Mishra,9433041955,"H.No. 716, Madhapur, Hyderabad",Route-12
+346,Pooja Sharma,8,Swimming,Pooja Kumar,9757448675,"H.No. 624, Ameerpet, Hyderabad",Route-5
+347,Diya Rao,10,Chess,Aarav Naidu,9633019326,"H.No. 976, LB Nagar, Hyderabad",Route-9
+348,Sirisha Singh,6,Coding,Ananya Agarwal,9886983862,"H.No. 908, Kukatpally, Hyderabad",Route-1
+349,Charan Nair,5,Badminton,Meera Verma,9632734398,"H.No. 467, Secunderabad, Hyderabad",Route-6
+350,Vihaan Chowdary,7,Coding,Pallavi Patel,9930355646,"H.No. 106, Tarnaka, Hyderabad",Route-10
+351,Rahul Varma,5,Dance,Keerthi Reddy,9149372289,"H.No. 484, LB Nagar, Hyderabad",Route-7
+352,Nikhil Patel,10,Cycling,Aditya Joshi,9341071485,"H.No. 330, Uppal, Hyderabad",Route-7
+353,Abhiram Singh,7,Story Writing,Arjun Das,9822977979,"H.No. 924, Ameerpet, Hyderabad",Route-3
+354,Kavya Verma,5,Singing,Aditya Iyer,9930568802,"H.No. 866, Dilsukhnagar, Hyderabad",Route-6
+355,Sai Joshi,7,Singing,Rohit Reddy,9705382875,"H.No. 804, Dilsukhnagar, Hyderabad",Route-12
+356,Harini Varma,9,Music,Rohit Agarwal,9886476517,"H.No. 923, Secunderabad, Hyderabad",Route-4
+357,Nikhil Reddy,6,Kabaddi,Naveen Reddy,9782837348,"H.No. 860, Manikonda, Hyderabad",Route-1
+358,Charan Reddy,5,Story Writing,Vamsi Gupta,9355730504,"H.No. 430, Gachibowli, Hyderabad",Route-1
+359,Nikhil Singh,6,Cycling,Sai Sharma,9852528635,"H.No. 918, LB Nagar, Hyderabad",Route-8
+360,Sai Das,6,Volleyball,Krishna Verma,9180348617,"H.No. 607, Begumpet, Hyderabad",Route-1
+361,Akash Naidu,7,Volleyball,Pooja Gupta,9852398388,"H.No. 852, Manikonda, Hyderabad",Route-6
+362,Abhiram Babu,5,Drawing,Meera Varma,9937450959,"H.No. 789, Begumpet, Hyderabad",Route-2
+363,Nikhil Rao,8,Cycling,Ananya Babu,9229640083,"H.No. 549, LB Nagar, Hyderabad",Route-4
+364,Manoj Gupta,5,Chess,Rohit Singh,9967150570,"H.No. 703, Dilsukhnagar, Hyderabad",Route-12
+365,Navya Sharma,6,Dance,Saanvi Mishra,9481975879,"H.No. 406, Secunderabad, Hyderabad",Route-1
+366,Priya Singh,8,Skating,Diya Reddy,9903243119,"H.No. 564, Uppal, Hyderabad",Route-2
+367,Rohit Rao,5,Dance,Kiran Rao,9240354421,"H.No. 203, Nizampet, Hyderabad",Route-7
+368,Harsha Kumar,7,Cricket,Manasa Das,9169226321,"H.No. 203, Tarnaka, Hyderabad",Route-11
+369,Manoj Naidu,5,Swimming,Sai Mishra,9154371817,"H.No. 173, Tarnaka, Hyderabad",Route-10
+370,Akash Iyer,8,Cycling,Bhavya Reddy,9285550328,"H.No. 363, Uppal, Hyderabad",Route-3
+371,Meera Singh,5,Dance,Manoj Naidu,9795009888,"H.No. 303, Gachibowli, Hyderabad",Route-7
+372,Divya Chowdary,7,Drawing,Vihaan Kumar,9550149967,"H.No. 205, Nagole, Hyderabad",Route-9
+373,Pooja Joshi,10,Yoga,Vivaan Iyer,9684671539,"H.No. 801, Gachibowli, Hyderabad",Route-6
+374,Pallavi Verma,7,Cricket,Abhiram Iyer,9442392183,"H.No. 612, Uppal, Hyderabad",Route-1
+375,Meera Sharma,7,Dance,Lakshmi Verma,9271395839,"H.No. 103, Uppal, Hyderabad",Route-11
+376,Pooja Singh,6,Volleyball,Madhavi Sharma,9480968571,"H.No. 958, Nizampet, Hyderabad",Route-3
+377,Diya Varma,10,Kabaddi,Manasa Mishra,9735185398,"H.No. 29, Manikonda, Hyderabad",Route-12
+378,Teja Das,9,Yoga,Pallavi Naidu,9682101860,"H.No. 317, Miyapur, Hyderabad",Route-8
+379,Aditya Kumar,9,Cricket,Vihaan Varma,9665269791,"H.No. 490, Ameerpet, Hyderabad",Route-6
+380,Harini Yadav,10,Painting,Kiran Mishra,9163947730,"H.No. 23, Miyapur, Hyderabad",Route-10
+381,Nikhil Rao,5,Volleyball,Sirisha Agarwal,9729230605,"H.No. 104, LB Nagar, Hyderabad",Route-5
+382,Abhiram Naidu,10,Painting,Ananya Nair,9287048690,"H.No. 725, Secunderabad, Hyderabad",Route-12
+383,Harini Agarwal,6,Singing,Kavya Das,9888121101,"H.No. 706, Dilsukhnagar, Hyderabad",Route-3
+384,Diya Reddy,9,Chess,Pallavi Iyer,9746809909,"H.No. 326, Tarnaka, Hyderabad",Route-10
+385,Kavya Das,6,Badminton,Krishna Chowdary,9355546183,"H.No. 356, LB Nagar, Hyderabad",Route-3
+386,Sai Mishra,7,Dance,Manoj Reddy,9844292151,"H.No. 70, LB Nagar, Hyderabad",Route-5
+387,Krishna Reddy,8,Cycling,Vihaan Iyer,9278604541,"H.No. 906, Madhapur, Hyderabad",Route-8
+388,Vamsi Agarwal,5,Dance,Madhavi Iyer,9274651099,"H.No. 463, Kukatpally, Hyderabad",Route-1
+389,Riya Reddy,5,Painting,Abhiram Singh,9282649071,"H.No. 910, Madhapur, Hyderabad",Route-3
+390,Arjun Joshi,9,Yoga,Sai Mishra,9856456108,"H.No. 32, Madhapur, Hyderabad",Route-11
+391,Ananya Kulkarni,5,Painting,Akash Patel,9320708138,"H.No. 998, Uppal, Hyderabad",Route-7
+392,Divya Joshi,7,Reading,Sneha Gupta,9153295652,"H.No. 403, Begumpet, Hyderabad",Route-9
+393,Bhavya Naidu,5,Badminton,Vihaan Agarwal,9416270056,"H.No. 844, Nagole, Hyderabad",Route-11
+394,Navya Chowdary,5,Chess,Ishita Rao,9785252000,"H.No. 299, Kukatpally, Hyderabad",Route-8
+395,Rahul Gupta,8,Coding,Likith Chowdary,9197857474,"H.No. 658, Secunderabad, Hyderabad",Route-7
+396,Diya Agarwal,6,Football,Vamsi Agarwal,9382711894,"H.No. 451, Gachibowli, Hyderabad",Route-5
+397,Kavya Singh,6,Reading,Pallavi Sharma,9192027526,"H.No. 685, LB Nagar, Hyderabad",Route-9
+398,Naveen Das,5,Story Writing,Kavya Joshi,9549502766,"H.No. 989, Secunderabad, Hyderabad",Route-11
+399,Lakshmi Das,7,Volleyball,Pooja Chowdary,9866979905,"H.No. 36, Secunderabad, Hyderabad",Route-10
+400,Sirisha Das,5,Chess,Harini Naidu,9279491823,"H.No. 996, Uppal, Hyderabad",Route-4
+401,Kiran Sharma,10,Music,Akash Kumar,9983221403,"H.No. 643, Miyapur, Hyderabad",Route-10
+402,Sneha Mishra,8,Volleyball,Arjun Kumar,9692763677,"H.No. 334, Nizampet, Hyderabad",Route-5
+403,Sirisha Babu,9,Cycling,Aarav Kulkarni,9220816186,"H.No. 425, Miyapur, Hyderabad",Route-3
+404,Pallavi Das,5,Reading,Manasa Rao,9943687944,"H.No. 293, Nizampet, Hyderabad",Route-9
+405,Teja Nair,10,Yoga,Sneha Iyer,9140228456,"H.No. 177, Dilsukhnagar, Hyderabad",Route-7
+406,Nikhil Kulkarni,5,Painting,Navya Iyer,9841433502,"H.No. 244, Ameerpet, Hyderabad",Route-12
+407,Lakshmi Singh,7,Singing,Harsha Reddy,9401019924,"H.No. 864, Gachibowli, Hyderabad",Route-12
+408,Krishna Varma,10,Painting,Kiran Gupta,9389287503,"H.No. 747, Madhapur, Hyderabad",Route-10
+409,Sai Yadav,8,Yoga,Manoj Yadav,9915499713,"H.No. 529, Nizampet, Hyderabad",Route-6
+410,Vihaan Verma,7,Story Writing,Ananya Kumar,9533131502,"H.No. 139, Kondapur, Hyderabad",Route-9
+411,Pallavi Reddy,6,Dance,Diya Yadav,9135509761,"H.No. 468, Ameerpet, Hyderabad",Route-6
+412,Ishita Singh,9,Reading,Harsha Babu,9831405402,"H.No. 32, Uppal, Hyderabad",Route-6
+413,Bhavya Kulkarni,8,Skating,Manoj Patel,9475551835,"H.No. 353, Miyapur, Hyderabad",Route-5
+414,Sai Gupta,5,Music,Vivaan Iyer,9337673911,"H.No. 663, Uppal, Hyderabad",Route-11
+415,Saanvi Singh,5,Cricket,Naveen Verma,9609057994,"H.No. 934, Miyapur, Hyderabad",Route-11
+416,Diya Kulkarni,7,Singing,Aarav Varma,9865299271,"H.No. 991, Manikonda, Hyderabad",Route-11
+417,Meera Nair,8,Music,Vamsi Agarwal,9601113183,"H.No. 310, Nagole, Hyderabad",Route-9
+418,Harini Iyer,5,Kabaddi,Manasa Rao,9702859986,"H.No. 663, Begumpet, Hyderabad",Route-10
+419,Riya Gupta,5,Coding,Krishna Chowdary,9787833374,"H.No. 333, Nizampet, Hyderabad",Route-5
+420,Sneha Gupta,9,Football,Ishita Naidu,9964823687,"H.No. 878, Kondapur, Hyderabad",Route-10
+421,Likith Mishra,10,Singing,Kiran Reddy,9378556835,"H.No. 929, Madhapur, Hyderabad",Route-7
+422,Vamsi Sharma,6,Dance,Manasa Das,9836928463,"H.No. 548, Nagole, Hyderabad",Route-8
+423,Teja Verma,10,Chess,Priya Patel,9415448230,"H.No. 100, Gachibowli, Hyderabad",Route-3
+424,Sneha Joshi,10,Dance,Diya Mishra,9481482646,"H.No. 229, Manikonda, Hyderabad",Route-5
+425,Naveen Mishra,9,Swimming,Harsha Singh,9226466892,"H.No. 482, Ameerpet, Hyderabad",Route-11
+426,Manasa Das,8,Story Writing,Harini Kumar,9228651382,"H.No. 889, Nagole, Hyderabad",Route-7
+427,Sirisha Gupta,6,Music,Naveen Sharma,9467938988,"H.No. 420, Begumpet, Hyderabad",Route-8
+428,Nikhil Mishra,8,Chess,Diya Kumar,9436525794,"H.No. 650, Ameerpet, Hyderabad",Route-1
+429,Manoj Singh,9,Yoga,Saanvi Patel,9943113786,"H.No. 782, Kondapur, Hyderabad",Route-2
+430,Kiran Kulkarni,8,Yoga,Akash Nair,9511582876,"H.No. 5, Ameerpet, Hyderabad",Route-9
+431,Ishita Agarwal,9,Cricket,Aarav Mishra,9826652789,"H.No. 5, Nagole, Hyderabad",Route-12
+432,Pooja Varma,6,Volleyball,Teja Gupta,9640453426,"H.No. 603, Dilsukhnagar, Hyderabad",Route-3
+433,Arjun Sharma,8,Story Writing,Priya Gupta,9740347321,"H.No. 537, LB Nagar, Hyderabad",Route-7
+434,Kiran Mishra,6,Volleyball,Bhavya Agarwal,9120535029,"H.No. 234, Uppal, Hyderabad",Route-12
+435,Kiran Yadav,9,Reading,Vivaan Das,9493624575,"H.No. 729, Nagole, Hyderabad",Route-1
+436,Vamsi Singh,5,Football,Madhavi Kulkarni,9810784787,"H.No. 111, Nagole, Hyderabad",Route-1
+437,Vihaan Rao,8,Skating,Naveen Babu,9371375678,"H.No. 486, Manikonda, Hyderabad",Route-3
+438,Saanvi Reddy,10,Story Writing,Priya Nair,9389885759,"H.No. 638, Begumpet, Hyderabad",Route-12
+439,Kiran Nair,10,Reading,Krishna Verma,9403554082,"H.No. 117, Kondapur, Hyderabad",Route-2
+440,Bhavya Yadav,7,Music,Navya Yadav,9484315640,"H.No. 721, Madhapur, Hyderabad",Route-5
+441,Ananya Sharma,6,Yoga,Divya Chowdary,9454982932,"H.No. 241, Ameerpet, Hyderabad",Route-1
+442,Sai Rao,6,Story Writing,Pallavi Chowdary,9180582403,"H.No. 741, Manikonda, Hyderabad",Route-2
+443,Sneha Varma,7,Football,Rohit Gupta,9207169001,"H.No. 833, Miyapur, Hyderabad",Route-1
+444,Riya Agarwal,10,Reading,Abhiram Nair,9914115345,"H.No. 912, Ameerpet, Hyderabad",Route-1
+445,Kiran Patel,8,Coding,Charan Agarwal,9887125715,"H.No. 96, LB Nagar, Hyderabad",Route-6
+446,Diya Rao,8,Volleyball,Likith Iyer,9840777094,"H.No. 872, Gachibowli, Hyderabad",Route-7
+447,Ananya Rao,6,Cycling,Kiran Sharma,9734313309,"H.No. 495, Kondapur, Hyderabad",Route-10
+448,Manoj Patel,7,Cricket,Harini Iyer,9834937767,"H.No. 902, Nizampet, Hyderabad",Route-12
+449,Kiran Chowdary,8,Football,Bhavya Rao,9168006560,"H.No. 268, Nagole, Hyderabad",Route-6
+450,Aarav Verma,6,Painting,Pallavi Das,9657379037,"H.No. 536, Manikonda, Hyderabad",Route-12
+451,Harini Rao,8,Volleyball,Akash Varma,9259616499,"H.No. 860, Nizampet, Hyderabad",Route-9
+452,Harini Sharma,9,Yoga,Aarav Patel,9277601056,"H.No. 77, Kondapur, Hyderabad",Route-8
+453,Abhiram Varma,5,Dance,Charan Singh,9691090113,"H.No. 659, Madhapur, Hyderabad",Route-7
+454,Pooja Kumar,9,Badminton,Rohit Babu,9635213213,"H.No. 458, LB Nagar, Hyderabad",Route-2
+455,Bhavya Reddy,8,Skating,Krishna Iyer,9689590340,"H.No. 1, Nizampet, Hyderabad",Route-2
+456,Navya Kulkarni,9,Swimming,Priya Verma,9465989408,"H.No. 373, Nizampet, Hyderabad",Route-1
+457,Kavya Babu,9,Yoga,Charan Joshi,9869505738,"H.No. 673, LB Nagar, Hyderabad",Route-12
+458,Manoj Rao,5,Kabaddi,Krishna Varma,9991081037,"H.No. 649, Kondapur, Hyderabad",Route-5
+459,Divya Verma,5,Yoga,Harsha Rao,9250806165,"H.No. 842, Manikonda, Hyderabad",Route-12
+460,Naveen Rao,6,Reading,Sneha Kulkarni,9521869399,"H.No. 221, Gachibowli, Hyderabad",Route-4
+461,Charan Rao,10,Reading,Naveen Sharma,9929084565,"H.No. 914, Gachibowli, Hyderabad",Route-8
+462,Manasa Verma,5,Football,Kiran Chowdary,9694022242,"H.No. 958, Madhapur, Hyderabad",Route-10
+463,Lakshmi Verma,6,Drawing,Diya Das,9211190223,"H.No. 397, Nagole, Hyderabad",Route-10
+464,Navya Mishra,8,Dance,Keerthi Iyer,9393771337,"H.No. 408, LB Nagar, Hyderabad",Route-5
+465,Manoj Naidu,9,Story Writing,Kiran Nair,9420955532,"H.No. 864, Manikonda, Hyderabad",Route-9
+466,Abhiram Joshi,6,Singing,Saanvi Yadav,9837243267,"H.No. 354, Tarnaka, Hyderabad",Route-11
+467,Kiran Patel,10,Painting,Keerthi Joshi,9862735437,"H.No. 119, Kondapur, Hyderabad",Route-6
+468,Divya Chowdary,10,Cycling,Manasa Das,9823963430,"H.No. 766, Tarnaka, Hyderabad",Route-9
+469,Riya Nair,5,Volleyball,Aarav Verma,9256043375,"H.No. 55, Nagole, Hyderabad",Route-1
+470,Ishita Singh,10,Drawing,Ananya Gupta,9166607238,"H.No. 708, Kondapur, Hyderabad",Route-5
+471,Saanvi Joshi,8,Skating,Aditya Agarwal,9340848222,"H.No. 761, Nagole, Hyderabad",Route-9
+472,Vamsi Varma,10,Football,Keerthi Gupta,9509721231,"H.No. 397, Madhapur, Hyderabad",Route-11
+473,Abhiram Joshi,10,Music,Vihaan Reddy,9766323040,"H.No. 890, Kondapur, Hyderabad",Route-8
+474,Kavya Agarwal,10,Music,Manasa Joshi,9933381221,"H.No. 743, Uppal, Hyderabad",Route-5
+475,Manoj Patel,6,Story Writing,Arjun Patel,9228155179,"H.No. 387, Ameerpet, Hyderabad",Route-7
+476,Meera Joshi,6,Coding,Sneha Naidu,9106061417,"H.No. 339, Gachibowli, Hyderabad",Route-12
+477,Nikhil Sharma,9,Singing,Nikhil Mishra,9626725060,"H.No. 809, Begumpet, Hyderabad",Route-9
+478,Teja Kumar,6,Story Writing,Abhiram Verma,9173203925,"H.No. 806, Secunderabad, Hyderabad",Route-3
+479,Naveen Joshi,5,Dance,Madhavi Iyer,9329086910,"H.No. 680, LB Nagar, Hyderabad",Route-6
+480,Harsha Gupta,9,Skating,Saanvi Kulkarni,9984428681,"H.No. 771, Nagole, Hyderabad",Route-1
+481,Rahul Agarwal,10,Dance,Manoj Varma,9142817871,"H.No. 699, Tarnaka, Hyderabad",Route-6
+482,Vamsi Rao,9,Singing,Vamsi Singh,9126527569,"H.No. 934, Secunderabad, Hyderabad",Route-6
+483,Keerthi Verma,5,Music,Manoj Chowdary,9443933202,"H.No. 527, Kukatpally, Hyderabad",Route-2
+484,Ananya Joshi,10,Music,Madhavi Reddy,9819766863,"H.No. 645, Kondapur, Hyderabad",Route-4
+485,Akash Rao,10,Cycling,Saanvi Joshi,9794239754,"H.No. 837, Kukatpally, Hyderabad",Route-12
+486,Nikhil Reddy,5,Badminton,Rohit Mishra,9158269903,"H.No. 183, Kondapur, Hyderabad",Route-5
+487,Divya Kumar,7,Volleyball,Pallavi Varma,9584392493,"H.No. 646, Madhapur, Hyderabad",Route-7
+488,Abhiram Reddy,9,Badminton,Vamsi Rao,9911706504,"H.No. 764, Begumpet, Hyderabad",Route-1
+489,Arjun Agarwal,7,Singing,Keerthi Rao,9751295118,"H.No. 89, Dilsukhnagar, Hyderabad",Route-8
+490,Vamsi Iyer,6,Dance,Vivaan Chowdary,9246438473,"H.No. 765, Madhapur, Hyderabad",Route-9
+491,Riya Naidu,5,Skating,Priya Agarwal,9251799039,"H.No. 127, Ameerpet, Hyderabad",Route-1
+492,Pallavi Kulkarni,9,Singing,Likith Joshi,9325542573,"H.No. 767, Manikonda, Hyderabad",Route-12
+493,Teja Yadav,6,Chess,Naveen Verma,9337069279,"H.No. 632, Nizampet, Hyderabad",Route-5
+494,Ishita Rao,5,Swimming,Diya Das,9792213989,"H.No. 563, Kukatpally, Hyderabad",Route-5
+495,Arjun Singh,10,Yoga,Krishna Yadav,9455248480,"H.No. 366, Miyapur, Hyderabad",Route-11
+496,Pooja Rao,5,Painting,Riya Kulkarni,9621689527,"H.No. 462, LB Nagar, Hyderabad",Route-10
+497,Priya Das,9,Painting,Nikhil Das,9559891563,"H.No. 173, Ameerpet, Hyderabad",Route-6
+498,Pooja Varma,7,Painting,Akash Singh,9615346649,"H.No. 474, Gachibowli, Hyderabad",Route-6
+499,Priya Chowdary,6,Badminton,Divya Rao,9401309071,"H.No. 880, Nizampet, Hyderabad",Route-3
+500,Madhavi Yadav,10,Cricket,Sneha Kumar,9644578566,"H.No. 647, Ameerpet, Hyderabad",Route-10
