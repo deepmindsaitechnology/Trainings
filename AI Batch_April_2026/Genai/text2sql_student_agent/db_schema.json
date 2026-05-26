@@ -1,0 +1,60 @@
+{
+  "database": "source_db",
+  "relationships": [
+    {
+      "from_table": "student_marks",
+      "from_column": "student_id",
+      "to_table": "student_details",
+      "to_column": "student_id",
+      "description": "Each marks record belongs to one student. A student can have multiple exam/test records."
+    }
+  ],
+  "tables": {
+    "student_marks": {
+      "description": "Exam-wise marks of students.",
+      "columns": {
+        "test_id": "INT PRIMARY KEY",
+        "student_id": "INT",
+        "math": "INT",
+        "science": "INT",
+        "social_science": "INT",
+        "english": "INT",
+        "computer": "INT",
+        "exam_date": "DATE"
+      }
+    },
+    "student_details": {
+      "description": "Basic student profile and transport information.",
+      "columns": {
+        "student_id": "INT PRIMARY KEY",
+        "student_name": "VARCHAR(50)",
+        "class": "VARCHAR(10)",
+        "hobby": "VARCHAR(50)",
+        "father_name": "VARCHAR(50)",
+        "contact_number": "VARCHAR(15)",
+        "address": "VARCHAR(100)",
+        "bus_route": "VARCHAR(50)",
+        "created_at": "TIMESTAMP"
+      }
+    },
+    "teachers": {
+      "description": "Teacher master data and subjects/classes taught.",
+      "columns": {
+        "teacher_id": "INT PRIMARY KEY",
+        "teacher_name": "VARCHAR(50)",
+        "teaching_subject": "VARCHAR(50)",
+        "experience_years": "INT",
+        "teaching_classes": "VARCHAR(50)",
+        "contact_number": "VARCHAR(15)",
+        "joining_date": "VARCHAR(15)"
+      }
+    }
+  },
+  "text_to_sql_rules": [
+    "Generate MySQL-compatible SQL only.",
+    "Use only SELECT queries.",
+    "Use student_details.student_id = student_marks.student_id for student-to-marks joins.",
+    "The schema provides no direct relationship between teachers and individual students.",
+    "Limit detail-result queries unless the user explicitly requests all rows."
+  ]
+}
