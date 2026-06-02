@@ -1,0 +1,11 @@
+sales_id,vehicle_model,vehicle_type,state,city,sale_month,units_sold,revenue_crore
+1,Range Rover,Diesel,Telangana,Hyderabad,2026-05,18,45.0
+2,Range Rover Sport,Petrol,Karnataka,Bengaluru,2026-05,22,48.4
+3,Defender,Diesel,Telangana,Hyderabad,2026-05,20,36.0
+4,Discovery,Diesel,Tamil Nadu,Chennai,2026-05,12,18.0
+5,Jaguar F-PACE,Petrol,Maharashtra,Mumbai,2026-05,15,22.5
+6,Jaguar I-PACE,EV,Telangana,Hyderabad,2026-05,9,13.5
+7,Jaguar I-PACE,EV,Karnataka,Bengaluru,2026-05,14,21.0
+8,Range Rover,Diesel,Delhi,Delhi,2026-05,16,40.0
+9,Defender,Diesel,Maharashtra,Mumbai,2026-05,19,34.2
+10,Range Rover Sport,Petrol,Telangana,Hyderabad,2026-05,17,37.4

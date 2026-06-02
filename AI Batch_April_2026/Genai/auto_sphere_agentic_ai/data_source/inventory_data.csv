@@ -1,0 +1,11 @@
+inventory_id,vehicle_model,vehicle_type,location,available_units,reserved_units,stock_status
+1,Range Rover,Diesel,Hyderabad,12,4,Available
+2,Range Rover Sport,Petrol,Bengaluru,8,5,Low Stock
+3,Defender,Diesel,Hyderabad,5,3,Low Stock
+4,Discovery,Diesel,Chennai,14,2,Available
+5,Jaguar F-PACE,Petrol,Mumbai,9,4,Available
+6,Jaguar I-PACE,EV,Hyderabad,4,3,Low Stock
+7,Jaguar I-PACE,EV,Bengaluru,10,2,Available
+8,Range Rover,Diesel,Delhi,7,6,Low Stock
+9,Defender,Diesel,Mumbai,16,5,Available
+10,Discovery,Diesel,Hyderabad,0,2,Out of Stock

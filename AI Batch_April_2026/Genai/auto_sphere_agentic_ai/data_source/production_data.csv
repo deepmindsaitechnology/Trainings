@@ -1,0 +1,11 @@
+production_id,vehicle_model,plant_location,production_month,planned_units,completed_units,production_status
+1,Range Rover,Pune,2026-05,100,95,On Track
+2,Range Rover Sport,Pune,2026-05,120,108,Delayed
+3,Defender,Chennai,2026-05,130,118,Delayed
+4,Discovery,Chennai,2026-05,80,82,Completed
+5,Jaguar F-PACE,Pune,2026-05,70,65,On Track
+6,Jaguar I-PACE,Bengaluru,2026-05,90,76,Delayed
+7,Range Rover,Chennai,2026-04,110,110,Completed
+8,Defender,Pune,2026-04,125,122,On Track
+9,Jaguar I-PACE,Bengaluru,2026-04,85,83,On Track
+10,Discovery,Pune,2026-04,75,70,Delayed

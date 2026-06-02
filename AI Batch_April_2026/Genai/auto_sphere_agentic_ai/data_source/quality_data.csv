@@ -1,0 +1,11 @@
+inspection_id,vehicle_model,inspection_date,inspection_result,defect_category,severity,action_status
+1,Range Rover,2026-05-02,Passed,None,None,Resolved
+2,Range Rover Sport,2026-05-03,Failed,Paint,Medium,Open
+3,Defender,2026-05-04,Failed,Brake,High,Open
+4,Discovery,2026-05-05,Passed,None,None,Resolved
+5,Jaguar F-PACE,2026-05-06,Failed,Interior,Low,Resolved
+6,Jaguar I-PACE,2026-05-07,Failed,Battery,High,Open
+7,Defender,2026-05-08,Passed,None,None,Resolved
+8,Range Rover Sport,2026-05-09,Failed,Engine,High,Open
+9,Jaguar I-PACE,2026-05-10,Passed,None,None,Resolved
+10,Discovery,2026-05-11,Failed,Paint,Low,Resolved
